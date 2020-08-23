@@ -12,9 +12,17 @@ that the more the results of a predictor is "consfirmed" by the others, the high
 
 ## Installing 
 
+### From PyPI
+
+```bash
+$ pip install covira
+```
+
 ### From source code
 
 ```bash
+$ git clone https://github.com/fredericokremer/covira
+$ cd covira
 $ python setup.py build
 $ python setup.py install
 ```
