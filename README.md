@@ -1,4 +1,5 @@
 # CoVIRA
+![Travis CI status](https://travis-ci.org/fredericokremer/covira.svg?branch=master&status=unknown)
 
 CoVIRA (*Consensus by Voting with Iterative Re-weighting based on Agreement*) is a method
 to identify weights and produce consensus predictions based on a collection of results from
