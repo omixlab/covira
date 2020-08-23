@@ -54,6 +54,6 @@ array([0.1875, 0.375 , 0.4375])
 
 ## Reference
 
-    Grassmann AA, Kremer FS, Dos Santos JC, Souza JD, Pinto LDS, McBride AJA. Discovery of Novel Leptospirosis Vaccine 
-    Candidates Using Reverse and Structural Vaccinology. Front Immunol. 2017;8:463. Published 2017 Apr 27. 
-    doi:10.3389/fimmu.2017.00463
+Grassmann AA, Kremer FS, Dos Santos JC, Souza JD, Pinto LDS, McBride AJA. *Discovery of Novel Leptospirosis Vaccine 
+Candidates Using Reverse and Structural Vaccinology*. **Front Immunol**. 2017;8:463. Published 2017 Apr 27. 
+[doi:10.3389/fimmu.2017.00463](doi:10.3389/fimmu.2017.00463)
