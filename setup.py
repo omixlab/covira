@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 setup(
     name="covira",
-    version="0.1.2",
+    version=open('.version').read(),
     packages=find_packages(),
 
     install_requires=["numpy", "pandas"],
