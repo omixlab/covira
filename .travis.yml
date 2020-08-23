@@ -10,4 +10,4 @@ script:
   - pytest
 after_success:
   - python setup.py bdist_wheel
-  - twine upload -p dist/*
+  - twine upload -u $TWINE_USERNAME -p $TWINE_PASSWORD dist/*
