@@ -8,11 +8,5 @@ install:
 script:
   - pytest
 after_success:
-  - python scripts/update_version.py
   - rm dist/*
-  - git add .
-  - git commit -m "version update to $(cat .version) [ci skip]"
-  - git push
-  - python setup.py bdist_wheel
-  - echo  $TWINE_USERNAME
   - twine upload -u $TWINE_USERNAME -p $TWINE_PASSWORD dist/*
