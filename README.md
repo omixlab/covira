@@ -9,7 +9,7 @@ weighted "agreement" between the predictors, and allows the calculation of a fin
 This algorithm was created to help on the integration of results from multiple prediction tools in a
 reverse vaccinology study where no validation dataset was available for all features been inferred. Therefore,
 we created a unsupervised way to estimate how accurate each predictor was for that particular case considering
-that the more the results of a predictor is "consfirmed" by the others, the higher it's accuracy.
+that the more the results of a predictor is "confirmed" by the others, the higher it's accuracy.
 
 ## Installing 
 
