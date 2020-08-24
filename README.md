@@ -35,7 +35,7 @@ $ python setup.py install
 >>> from covira import Covira
 >>> df = pd.read_csv('test_data/dataset_1.csv')
 >>> predictions = df.drop(['gene'], axis=1).values
->>> predictions                          # each column is represents the prediction from a different tool, while each row is a different sample
+>>> predictions                          # each column represents the prediction from a different tool, while each row is a different sample
 array([[1, 0, 0], 
        [0, 1, 0], 
        [1, 1, 0], 
