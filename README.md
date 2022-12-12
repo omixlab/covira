@@ -6,6 +6,7 @@ to identify weights and produce consensus predictions based on a collection of r
 predictors for multiple samples. It employs a iterative recalculations of weights based on the
 weighted "agreement" between the predictors, and allows the calculation of a final prediction as well.
 
+
 This algorithm was created to help on the integration of results from multiple prediction tools in a
 reverse vaccinology study where no validation dataset was available for all features been inferred. Therefore,
 we created a unsupervised way to estimate how accurate each predictor was for that particular case considering
